@@ -33,6 +33,8 @@ const config: Config = {
         accent: "#FFC12F",
         secondAccent: "#FCC647",
         titleColor: "#3C3C3C",
+        backgroundColor: "#FFFBF3",
+        btnHover: "#e5ad2a",
       },
       fontSize: {
         xs: [

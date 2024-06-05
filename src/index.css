@@ -17,3 +17,7 @@
   font-weight: 700;
   font-style: normal;
 }
+
+body {
+  padding-top: 80px;
+}

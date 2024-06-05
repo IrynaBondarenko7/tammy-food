@@ -1,0 +1,9 @@
+{
+  "navLinks": [
+    { "text": "Home", "pathTo": "home" },
+    { "text": "About us", "pathTo": "about" },
+    { "text": "Menu", "pathTo": "menu" },
+    { "text": "Blog", "pathTo": "blog" },
+    { "text": "Contact Us", "pathTo": "contacts" }
+  ]
+}
